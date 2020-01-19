@@ -1,0 +1,9 @@
+C:\Users\rully\source\repos\Esp32ConnectComBluetooth\Esp32ConnectComBluetooth\bin\Debug\Esp32ConnectComBluetooth.exe.config
+C:\Users\rully\source\repos\Esp32ConnectComBluetooth\Esp32ConnectComBluetooth\bin\Debug\Esp32ConnectComBluetooth.exe
+C:\Users\rully\source\repos\Esp32ConnectComBluetooth\Esp32ConnectComBluetooth\bin\Debug\Esp32ConnectComBluetooth.pdb
+C:\Users\rully\source\repos\Esp32ConnectComBluetooth\Esp32ConnectComBluetooth\obj\Debug\Esp32ConnectComBluetooth.csprojAssemblyReference.cache
+C:\Users\rully\source\repos\Esp32ConnectComBluetooth\Esp32ConnectComBluetooth\obj\Debug\Esp32ConnectComBluetooth.Form1.resources
+C:\Users\rully\source\repos\Esp32ConnectComBluetooth\Esp32ConnectComBluetooth\obj\Debug\Esp32ConnectComBluetooth.Properties.Resources.resources
+C:\Users\rully\source\repos\Esp32ConnectComBluetooth\Esp32ConnectComBluetooth\obj\Debug\Esp32ConnectComBluetooth.csproj.GenerateResource.cache
+C:\Users\rully\source\repos\Esp32ConnectComBluetooth\Esp32ConnectComBluetooth\obj\Debug\Esp32ConnectComBluetooth.exe
+C:\Users\rully\source\repos\Esp32ConnectComBluetooth\Esp32ConnectComBluetooth\obj\Debug\Esp32ConnectComBluetooth.pdb
